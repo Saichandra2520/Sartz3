@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Sartz3/static/css/main.42994693.css",
+    "main.js": "/Sartz3/static/js/main.41742366.js",
+    "static/media/preetham.png": "/Sartz3/static/media/preetham.827ae79d01a9d8f61d1d.png",
+    "static/media/shridyuthi.png": "/Sartz3/static/media/shridyuthi.5b7c4d593743f9cdee08.png",
+    "static/media/p3.jpeg": "/Sartz3/static/media/p3.954cb5cb143e696de4d2.jpeg",
+    "static/media/p11.jpeg": "/Sartz3/static/media/p11.9722fd9aeab4e6f5b3be.jpeg",
+    "static/media/p1.jpeg": "/Sartz3/static/media/p1.27361da4739be09a7f33.jpeg",
+    "static/media/p2.jpeg": "/Sartz3/static/media/p2.27a5d38420b732085f02.jpeg",
+    "static/media/sat2.jpeg": "/Sartz3/static/media/sat2.0756a991927587501b80.jpeg",
+    "static/media/p4.jpeg": "/Sartz3/static/media/p4.ab7c1dca1ce85e31701c.jpeg",
+    "static/media/p8.jpeg": "/Sartz3/static/media/p8.e425da1c92c8a6340e8e.jpeg",
+    "static/media/p6.jpeg": "/Sartz3/static/media/p6.e888b86a53eff289e231.jpeg",
+    "static/media/p7.jpeg": "/Sartz3/static/media/p7.29ba49bdd85d80d4afa5.jpeg",
+    "static/media/sai.jpeg": "/Sartz3/static/media/sai.8202dde0eacb46fcba1b.jpeg",
+    "static/media/p5.jpeg": "/Sartz3/static/media/p5.34c09e09a716fd714555.jpeg",
+    "static/media/p9.jpeg": "/Sartz3/static/media/p9.7c39ff6fdc0df62559cf.jpeg",
+    "static/media/p10.jpeg": "/Sartz3/static/media/p10.f085062e8bc90932c997.jpeg",
+    "static/media/sat.jpeg": "/Sartz3/static/media/sat.94bcafa0773b58e50e1c.jpeg",
+    "index.html": "/Sartz3/index.html",
+    "main.42994693.css.map": "/Sartz3/static/css/main.42994693.css.map",
+    "main.41742366.js.map": "/Sartz3/static/js/main.41742366.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42994693.css",
+    "static/js/main.41742366.js"
+  ]
+}
