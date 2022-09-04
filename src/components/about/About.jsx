@@ -15,7 +15,7 @@ const About = () => {
             <div className="about__data">
                 <Info />
 
-                <p className="about__description">I'm an Artist, I made many beatiful sketches, I have a very good experiance and many clients are happy with my sketches</p>
+                <p className="about__description">I'm an Artist, I made many beatiful sketches, I have a very good experience and many clients are happy with my sketches</p>
                 
             </div>
         </div>
