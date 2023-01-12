@@ -39,7 +39,7 @@ const Reviews = () => {
             {Data.map(({id,image,title,description}) => {
                 return (
                     <SwiperSlide className="review__card" key={id}>
-                        <img src={image} className="review__img" />
+                        <img src={image} className="review__img" alt='i'/>
 
                         <h3 className="review__name">{title}</h3>
                         <p className="review__description">{description}</p>

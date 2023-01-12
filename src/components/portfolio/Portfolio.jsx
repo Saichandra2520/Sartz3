@@ -29,43 +29,43 @@ const Portfolio = () => {
             <div className="portfolio__sections grid">
                 <div className={ToggleState===1 ?"portfolio__gallery portfolio__gallery-active":"portfolio__gallery"}>
                     <div className="portfolio__img__div">
-                        <img src={sai1} className="portfolio__img" />
+                        <img src={sai1} className="portfolio__img" alt='i'/>
                     </div>
                     <div className="portfolio__img__div">
-                        <img src={sai2} className="portfolio__img" />
+                        <img src={sai2} className="portfolio__img" alt='i'/>
                     </div>
                     <div className="portfolio__img__div">
-                        <img src={sai3} className="portfolio__img" />
+                        <img src={sai3} className="portfolio__img" alt='i'/>
                     </div>
                     <div className="portfolio__img__div">
-                        <img src={sai4} className="portfolio__img" />
+                        <img src={sai4} className="portfolio__img" alt='i'/>
                     </div>
                     <div className="portfolio__img__div">
-                        <img src={sai5} className="portfolio__img" />
+                        <img src={sai5} className="portfolio__img" alt='i'/>
                     </div>
                     <div className="portfolio__img__div">
-                        <img src={sai6} className="portfolio__img" />
+                        <img src={sai6} className="portfolio__img" alt='i'/>
                     </div>
                 </div>
 
                 <div className={ToggleState===2 ?"portfolio__gallery portfolio__gallery-active":"portfolio__gallery"}>
                     <div className="portfolio__img__div">
-                        <img src={sai7} className="portfolio__img" />
+                        <img src={sai7} className="portfolio__img" alt='i'/>
                     </div>
                     <div className="portfolio__img__div">
-                        <img src={p8} className="portfolio__img" />
+                        <img src={p8} className="portfolio__img" alt='i'/>
                     </div>
                     <div className="portfolio__img__div">
-                        <img src={p9} className="portfolio__img" />
+                        <img src={p9} className="portfolio__img" alt='i'/>
                     </div>
                     <div className="portfolio__img__div">
-                        <img src={p10} className="portfolio__img" />
+                        <img src={p10} className="portfolio__img" alt='i'/>
                     </div>
                     <div className="portfolio__img__div">
-                        <img src={p11} className="portfolio__img" />
+                        <img src={p11} className="portfolio__img" alt='i'/>
                     </div>
                     <div className="portfolio__img__div">
-                        <img src={sai3} className="portfolio__img" />
+                        <img src={sai3} className="portfolio__img" alt='i'/>
                     </div>
                 </div>
 
