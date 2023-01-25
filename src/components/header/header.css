@@ -5,7 +5,7 @@
     position: fixed;
     top: 0;
     z-index: var(--z-fixed);
-    background-color: rgb(242, 242, 242);
+    background-color: rgb(0, 242, 242);
 }
 
 .nav {
